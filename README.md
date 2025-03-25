@@ -23,7 +23,6 @@
 ---
 
 ### 📫 Connect with Me  
-💬 Discord: `MR_POKKKIE`  
-🐦 Twitter: [@YourHandle](https://twitter.com/)  
+💬 Discord: `MR_POKKKIE`   
 📺 YouTube: [ShadBG](https://www.youtube.com/@shadbg)  
 🔗 GitHub: [github.com/slovakians](https://github.com/slovakians)  
