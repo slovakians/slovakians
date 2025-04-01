@@ -25,4 +25,5 @@
 ### 📫 Connect with Me  
 💬 Discord: `MR_POKKKIE`   
 📺 YouTube: [ShadBG](https://www.youtube.com/@shadbg)  
+🧶 Webisite: [Slovaks website](https://slovaks.is-a.dev)
 🔗 GitHub: [github.com/slovakians](https://github.com/slovakians)  
